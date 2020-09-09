@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15140987897",
+    "firebase_url": "https://cipmessenger.firebaseio.com",
+    "project_id": "cipmessenger",
+    "storage_bucket": "cipmessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15140987897:android:3ce829d7f70be45e5d9328",
+        "android_client_info": {
+          "package_name": "com.example.cipmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15140987897-sc7veg3u7t2t5sphhdp4fpgjd82k82i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cipmessenger",
+            "certificate_hash": "ef54bcbf9ee298c44f4cf1a9b56e294e706d3b68"
+          }
+        },
+        {
+          "client_id": "15140987897-obk25gn26jvvpjtjr25a9262kjil88eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-rvrZcu63SWATu3Lhxj0pjRy92CbIrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15140987897-obk25gn26jvvpjtjr25a9262kjil88eh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
